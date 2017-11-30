@@ -4,7 +4,9 @@ void main(void)
 {
 	unsigned char i;
 
-
+	//device init
+	//peripial init
+	//setting interrupt
 }
 
 
